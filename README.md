@@ -5,8 +5,8 @@ This project is a web-based platform that consolidates essential features requir
 Although the source code was initially intended to remain private, it has been made public to facilitate future feature extensions and contributions by club members. The project is designed to serve as a centralized and practical homepage for efficient club operation and collaboration.
 
 ## Warning
-Based on the published code, any act that attacks or interferes with the operation of the service is strictly prohibited.
-If this is violated, all responsibility rests with the offender (the subject who attacked) and compensates for the damage that has occurred.
+Based on the published code, any act that attacks or interferes with the operation of the service is strictly prohibited.    
+If this is violated, all responsibility rests with the offender (the subject who attacked) and compensates for the damage that has occurred.    
 
 ## Team Information
 Our team consists of
